@@ -46,7 +46,7 @@ Key Skills Practiced
 - DNS Fundamentals
 - Network Troubleshooting
 - Group Policy Management
-- Infrastructure Documentation
+- Technical Documentation
 
 Status
 
