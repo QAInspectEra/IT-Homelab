@@ -34,6 +34,12 @@ Used for:
 
 Used to gain basic Linux administration experience and understand cross-platform environments.
 
+Practiced tasks:
+- Basic command line usage
+- File system navigation
+- Package management
+- User management fundamentals
+
 ## Technologies Practiced
 
 - Active Directory
