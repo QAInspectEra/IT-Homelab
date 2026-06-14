@@ -1,18 +1,18 @@
-###Lab Overview
+# Lab Overview
 
-##Purpose
+## Purpose
 
 This home lab was built to gain practical experience in system administration, networking, and infrastructure management.
 
 The environment simulates a small enterprise network and is used for hands-on practice with Windows Server technologies and common administrative tasks.
 
-##Virtualization Platform
+## Virtualization Platform
 
 - VirtualBox
 
-##Systems
+## Systems
 
-#Windows Server 2022
+### Windows Server 2022
 
 Used as the primary server for:
 
@@ -21,7 +21,7 @@ Used as the primary server for:
 - Group Policy Management
 - User and Group Administration
 
-#Windows Client
+### Windows Client
 
 Used for:
 
@@ -30,11 +30,11 @@ Used for:
 - Policy Testing
 - Network Connectivity Testing
 
-#Ubuntu Linux
+### Ubuntu Linux
 
 Used to gain basic Linux administration experience and understand cross-platform environments.
 
-##Technologies Practiced
+## Technologies Practiced
 
 - Active Directory
 - DNS
@@ -45,7 +45,7 @@ Used to gain basic Linux administration experience and understand cross-platform
 - Permissions Management
 - Troubleshooting
 
-##Main Learning Objectives
+## Main Learning Objectives
 
 - Understanding Active Directory structure
 - Managing users, groups, and permissions
@@ -54,6 +54,6 @@ Used to gain basic Linux administration experience and understand cross-platform
 - Performing network diagnostics
 - Practicing common system administration tasks
 
-##Current Status
+## Current Status
 
 The laboratory is continuously expanded with additional administrative, networking, and troubleshooting scenarios.
