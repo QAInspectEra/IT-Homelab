@@ -45,11 +45,10 @@ Configure and test basic network communication in a virtual lab environment.
 Successfully configured and tested network communication within the lab environment.
 
 The networking exercises provided practical experience with:
-
-- IPv4 addressing
-- DNS configuration
-- Network connectivity testing
-- Name resolution
-- Basic network troubleshooting
+- Static IPv4 addressing
+- DNS configuration and validation
+- Network connectivity testing using Ping
+- DNS name resolution using NSLookup
+- Basic network troubleshooting and diagnostics
 
 These tasks helped build a solid foundation for system administration and infrastructure support.
